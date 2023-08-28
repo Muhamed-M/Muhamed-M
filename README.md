@@ -73,6 +73,7 @@ I'm a 20-year-old Full-Stack Web Developer with over 2 years of industry experie
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=radical)
 
+<!--
 ## 🌱 Projects
 
 - **Project 1**: Description here. [🔗](Project URL)
@@ -93,16 +94,16 @@ I'm a 20-year-old Full-Stack Web Developer with over 2 years of industry experie
 
 I also maintain a blog where I write articles related to tech, coding, and more.
 - [My Blog](Blog URL)
+-->
 
 ## ✉️ Contact
 
-- Twitter: [@yourusername](https://twitter.com/yourusername)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/yourname/)
-- Email: youremail@gmail.com
+- LinkedIn: [Your Name](https://www.linkedin.com/in/MuhamedMuhamedagić/](https://ba.linkedin.com/in/muhamed-muhamedagi%C4%87-477462206))
+- Email: muhamedmuhamedagic03@gmail.com
 
 ---
 
-⭐️ From [YourUsername](https://github.com/yourusername)
+⭐️ From [Muhamed-M](https://github.com/Muhamed-M)
 
 
 <!--
