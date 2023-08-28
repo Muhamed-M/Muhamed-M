@@ -32,6 +32,7 @@ I'm a 20-year-old Full-Stack Web Developer with over 2 years of industry experie
 ![Vue.js](https://img.shields.io/badge/Vue.js-%231A1A1A.svg?style=for-the-badge&logo=Vue.js&logoColor=#4FC08D)
 ![Vuetify](https://img.shields.io/badge/Vuetify-%23187383.svg?style=for-the-badge&logo=vuetify&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Svelte](https://img.shields.io/badge/Svelte-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
