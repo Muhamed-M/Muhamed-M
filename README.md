@@ -98,7 +98,7 @@ I also maintain a blog where I write articles related to tech, coding, and more.
 
 ## ✉️ Contact
 
-- LinkedIn: [Muhamed Muhamedagic](https://www.linkedin.com/in/muhamed-muhamedagi%C4%87-477462206))
+- LinkedIn: [Muhamed Muhamedagic](https://www.linkedin.com/in/muhamed-muhamedagi%C4%87-477462206)
 - Email: muhamedmuhamedagic03@gmail.com
 
 ---
