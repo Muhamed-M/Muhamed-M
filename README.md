@@ -71,7 +71,7 @@ I'm a 20-year-old Full-Stack Web Developer with over 2 years of industry experie
 
 ## 📊 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhamed-M&theme=radical)
 
 <!--
 ## 🌱 Projects
