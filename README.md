@@ -23,6 +23,7 @@ I'm a 20-year-old Full-Stack Web Developer with over 2 years of industry experie
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-121212?style=for-the-badge&logo=supabase)
 
 
 ### 📚 Frameworks, Platforms and Libraries
@@ -30,6 +31,7 @@ I'm a 20-year-old Full-Stack Web Developer with over 2 years of industry experie
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-%231A1A1A.svg?style=for-the-badge&logo=Vue.js&logoColor=#4FC08D)
+![NUXT](https://img.shields.io/badge/NUXT-020421?style=for-the-badge&logo=nuxtdotjs)
 ![Vuetify](https://img.shields.io/badge/Vuetify-%23187383.svg?style=for-the-badge&logo=vuetify&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Svelte](https://img.shields.io/badge/Svelte-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white)
