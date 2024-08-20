@@ -30,6 +30,7 @@ I'm a 20-year-old Full-Stack Web Developer with over 2 years of industry experie
 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Bun](https://img.shields.io/badge/BUN-F471B5?style=for-the-badge&logo=bun)
 ![Vue.js](https://img.shields.io/badge/Vue.js-%231A1A1A.svg?style=for-the-badge&logo=Vue.js&logoColor=#4FC08D)
 ![NUXT](https://img.shields.io/badge/NUXT-020421?style=for-the-badge&logo=nuxtdotjs)
 ![Vuetify](https://img.shields.io/badge/Vuetify-%23187383.svg?style=for-the-badge&logo=vuetify&logoColor=white)
