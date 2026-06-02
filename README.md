@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a 22-year-old Full-Stack Web Developer with over 3 years of industry experience. My goal is to be useful by creating impactful software solutions.
+I'm a 22-year-old Full-Stack Web Developer with over 4 years of industry experience. My goal is to be useful by creating impactful software solutions.
 
 ## 🛠️ Tech Stack
 
